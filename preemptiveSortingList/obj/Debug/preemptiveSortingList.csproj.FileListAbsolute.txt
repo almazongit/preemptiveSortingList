@@ -1,0 +1,7 @@
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\bin\Debug\preemptiveSortingList.exe.config
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\bin\Debug\preemptiveSortingList.exe
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\bin\Debug\preemptiveSortingList.pdb
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\obj\Debug\preemptiveSortingList.csproj.AssemblyReference.cache
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\obj\Debug\preemptiveSortingList.csproj.CoreCompileInputs.cache
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\obj\Debug\preemptiveSortingList.exe
+C:\Users\almaz\source\repos\preemptiveSortingList\preemptiveSortingList\obj\Debug\preemptiveSortingList.pdb
